@@ -8,6 +8,7 @@
 <li><a href ="https://youtube.com/live/YPdpIpUeWsw?si=EnSIkaIECMiOmarE&t=1087">Density independed pixels</li>
 <li><a href ="https://youtube.com/live/YPdpIpUeWsw?si=EnSIkaIECMiOmarE&t=1200">Formula DP</li>
 <li><a href ="https://youtube.com/live/YPdpIpUeWsw?si=EnSIkaIECMiOmarE&t=1245">Категории плотности экрана</li>
+<li><a href ="https://www.youtube.com/live/YPdpIpUeWsw?feature=share&t=1606">Drawables</li>
 
 
 </ol>
