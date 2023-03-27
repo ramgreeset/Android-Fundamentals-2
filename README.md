@@ -9,6 +9,9 @@
 <li><a href ="https://youtube.com/live/YPdpIpUeWsw?si=EnSIkaIECMiOmarE&t=1200">Formula DP</li>
 <li><a href ="https://youtube.com/live/YPdpIpUeWsw?si=EnSIkaIECMiOmarE&t=1245">Категории плотности экрана</li>
 <li><a href ="https://www.youtube.com/live/YPdpIpUeWsw?feature=share&t=1606">Drawables</li>
+<li><a href ="https://www.youtube.com/live/YPdpIpUeWsw?feature=share&t=1745">Vector</li>
+<li><a href ="https://www.youtube.com/live/YPdpIpUeWsw?feature=share&t=1745">View Group</li>
+<li><a href ="https://www.youtube.com/live/YPdpIpUeWsw?feature=share&t=1943">Ширина и высота View</li>
 
 
 </ol>
